@@ -1,5 +1,8 @@
 Laravel todo example
 
+<img src="public/banner.png" heigth="200" width="200" />
+
+
 ## Installation
 change
 ```shell
